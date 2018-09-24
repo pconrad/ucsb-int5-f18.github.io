@@ -8,7 +8,7 @@ links:
   slides: ""
   video: ""
 
-reading: 
+readings: 
    - 
      title: "1.1"
      url: "https://www.inferentialthinking.com/chapters/01/1/intro.html"
@@ -16,7 +16,7 @@ reading:
      title: "1.2"
      url: "https://www.inferentialthinking.com/chapters/01/2/why-data-science.html"   
 
-assignment: ""
+assignments: ""
    - 
      title: "Lab 01: Expressions"
      url: "tbd"
