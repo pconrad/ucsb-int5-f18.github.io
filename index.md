@@ -2,7 +2,7 @@
 title: "INT 5: Data Science Foundations, Fall 2018"
 ---
 
-# {{site.course}}, {{site.quarter}}
+<!--# {{site.course}}, {{site.quarter}}-->
 
 
 <div id="info" data-role="collapsible" data-collapsed="false">
