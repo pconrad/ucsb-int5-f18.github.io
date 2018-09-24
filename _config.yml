@@ -33,31 +33,31 @@ defaults:
       path: ""
       type: hwk
     values:
-      layout: hwk
+      layout: default
   -
     scope:
       path: ""
       type: lab
     values:
-      layout: lab
+      layout: default
   -
     scope:
       path: ""
       type: exam
     values:
-      layout: exam_info
+      layout: default
   -
     scope:
       path: ""
       type: info
     values:
-      layout: info
+      layout: default
   -
     scope:
       path: ""
       type: lectures
     values:
-      layout: lecture
+      layout: default
   -
     scope:
       path: "syllabus.md"
